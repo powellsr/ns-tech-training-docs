@@ -43,6 +43,17 @@ Before service begins, it is the best practice to set the wall panels as appropr
 The third panel is a dimmer switch that provides control over a set of LED lights set up at the back of the stage. These can be useful for providing a little additional light for volunteers working on stage if the stage lights are off / too dim. These should be off during service. Two notes on this: 1) There is also a control panel on stage in the wings, so people on stage can mess with these, too 2) These lights are LEDs, so they are not capable of dimming. The only relevant buttons, then, are the top ('on') and bottom ('off') buttons. The lights will flicker randomly when turned on or off. This is normal. A dimmer panel was used for this in construction for perfectly good and not at all irrational reasons or merely for convenience. In order to master or even undertsand the Tau of AV, you must embrace the chaos and occasional appearance of irrationality. 
 
 ### Lighting Console
+
+The Lighting Console (Mini Wing) consists of 10 sliders, each with an associated play queue button and some other button, which I don't know what they do, in addition to the main power slider and buttons. The main power slider and blackout button are disabled. 
+
+The main queues use in sunday worship are PreService, Worship Looks, Preach 1, FOH (Front Of House, the main sanctuary lights), and Overflow. The FOH and Overflow lights together control the sanctuary lighting. The rest of the sliders correspond to stage lights. For those mentioned above, fading the sliders up from 0% also has the effect of playing the queue, which fade the lights from their previous colors and brightnesses to the selected queue. 
+
+In brief, the usage of the lights during an ordinary service include: managing the sanctuary lights brighness as described in [Typical Order of Service and Responsibilities], using PreService before the start of the service (optional), and switching between Preach and Worship as appropriate. The Worship Looks queue has a list of 8 preset lighting looks for worship. These are the nearly exclusive stage worship lights. The queue can be advanced to the next look by pressing the play button above the Worship looks slider. Pressing multiple times can be used to skip through to the desired queue usually without disturbing the colors due to the 3 second fade time. Note the if the Worship Looks slider is turned, to zero, fading the slider on again will restart the queue at the top, with Blue.
+
+Note that it is preferred to fade off whichever of Preach or Worship is not in use due to differences in the general brighness of the stage in different parts for these two looks, so it is not just the color of the lights that are different. Fading the sliders very low can also be effective, which can allow the lighting volunteer to save the place in the Worship Looks queue if desired. 
+
+The other sliders: Full Stage, Left Stage, Center Stage, and Left Stage can be used to add more brightness to the stage as desired. The Color Spots slider can be used to control the brighness of the colored spot lights at the back of the stage. These give a subtle effect, and should not be used for chaning the brightness on stage. These are rarely used. 
+
 > TODO: write this
 
 ### Lighting Computer (and associated software)
