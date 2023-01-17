@@ -54,10 +54,19 @@ Note that it is preferred to fade off whichever of Preach or Worship is not in u
 
 The other sliders: Full Stage, Left Stage, Center Stage, and Left Stage can be used to add more brightness to the stage as desired. The Color Spots slider can be used to control the brighness of the colored spot lights at the back of the stage. These give a subtle effect, and should not be used for chaning the brightness on stage. These are rarely used. 
 
+### Lighting Computer (and associated software)
+The computer at the lights station has the MagicQ software, which controls the lights. The lights for service can be completely controlled from either the software or the console, though generally a combination of the two is most useful. On startup, click 'Continue Show' to get to the main software. ![Chamsys Lighting Software Splash Screen](chamsys_splash_screen.png) The landing screen will be the general settings view. On the left side of the screen, there are four buttons. One is labeled 'User'. ![General settings screen](chamsys_settings_general.png) To change to admin user, press this button and enter the admin password. [I imagine we won't want to put the password in such a public space as the training doc, in general, but probably everyone trained will know it]. This allows greater user control, most notably the ability to skip to any queue on the 'Worship Looks' stack. 
+
+Along the bottom of the screen, there are a row of virtual sliders that match those on the lighting console. These function in the same manner as the console sliders, but are less commonly used. You can view the worship looks queue by double-clicking on the colored rectangle above the virtual slider labeled 'Worship Looks'. ![Worship looks queue](chamsys_worship-looks_queue.png) Here you can view the order of the queue stack and, if logged in as admin, select the grey rectangle to the left of any queue, then press the 'Go to Queue' button allong the top of the screen to fade immediately to that queue. 
+
+You can also change the colors of the color spot and color wash lights independently to achieve a different color scheme than the preset looks. The color wash are the most prominent lights, and generally define the color of the stage. 
+> Check this 
+
+The color spot lights can add a subtle change of color. On the right side of the screen, there are several groups of buttons. In the top group on the upper right corner, find the 'exec' button. This will change the main screen to a selection of buttons whereby you can independently change the wash and spot colors to get a custom look. ![Worship lights execute screen](chamsys_worship_lights_exec.png) Note that you should already be on a 'Worship Looks' queue, as this will set the levels of brightness and white lighting appropriately. All the colors should be set to a 3-second fade to change, but I don't think all are. Note that these buttons are binary switches, and the colors will appear 'on' until turned 'off', but advancing the worship queue or selecting another color should override this. At the end of the shift, you can close the MagicQ software and shut down the computer. 
+> Check this 
+
 > TODO: write this
 
-### Lighting Computer (and associated software)
-> TODO: write this
 
 ## Setup and Teardown
 ### Setup / Before Service
@@ -94,3 +103,4 @@ The other sliders: Full Stage, Left Stage, Center Stage, and Left Stage can be u
 
 
 ## Tips and Tricks
+- Leave the worship looks on very low instead of fading the slider to 0 while using the preach setting to avoid having to reset at the top of the queue (useful when targeting a look later in the queue after a transition from 'Preach' _and_ while not logged in as admin).
