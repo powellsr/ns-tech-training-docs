@@ -8,14 +8,14 @@
 - Tips and Tricks
 
 ## Responsibilities
-The production or livestream volunteer is responsible for managing video feeds and production of the livestream and for controlling the remote-controlled cameras. They are responsible for ensuring the livestream is a smooth, professional, undistracting, and engaging viewing experience, and is a passable reflection of in-person attendence to the degree this is possible. 
+The live video or livestream volunteer is responsible for managing video feeds and production of the livestream and for controlling the remote-controlled cameras. They are responsible for ensuring the livestream is a smooth, professional, non-distracting, and engaging viewing experience, and is a passable reflection of in-person attendance to the degree this is possible. 
 
 ## Physical Controls
 The controls which the lighting volunteer is responsible for and through which they will fulfill their role are the following:
 
 - Video switcher
-- Video chanel patcher
-- Remote camera controls (two remote controlled cameras)
+- Video chanel router
+- Remote camera controls (two remote controlled cameras, currently)
 - Two cameras on tripods
 
 ![View of the production / livestream station](./view_of_production_station.jpg)
@@ -38,7 +38,7 @@ The production volunteer should be familiar with the function and usage of each 
 
 ### Teardown / After Service
 - Play outro slides from the end of service until the crowd in the church begins to thin out
-- Turn off camera 3. __Generally, I delete video files immediately, but this is probably poor general practice. My anal-retentive nature, I guess__
+- Turn off camera 3 __Generally, I delete video files immediately, but this is probably poor general practice. My anal-retentive nature, I guess__
 - Turn off camera 4
 - The projection volunteer is generally responsible for turning off booth power
 
