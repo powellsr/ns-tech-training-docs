@@ -1,5 +1,6 @@
-# Projection Training
+# Production Training
 [Back to Overview](README.md)
+
 ## Table of Contents
 - Responsibilities
 - Physical Controls
