@@ -1,4 +1,6 @@
 # Lighting Training
+[Back to Overview](README.md)
+
 This document is intended to serve as a training guide and reference 
 document for AV volunteers controlling the lights at Northstar. 
 
