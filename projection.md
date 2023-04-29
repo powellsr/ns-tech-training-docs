@@ -38,6 +38,20 @@ A rear-facing projector for the people on the stage to see what's on the project
 
 ![View of ProPresenter during typical service](./pp_general.png)
 
+### Overview of ProPresenter Software
+![ProPresenter Main Screen](./pp_general_annotated.png)
+1.  Playlist menu: contains playlists and the archive of playlists.
+2. Playlist contents: shows the items in the selected playlist
+3. Mode buttons: 'Show' is the general view depicted in this screenshot, edit is for modifying media and slides and is not often used, 'Reflow' is used to edit text-bases slides such as song lyrics or scripture texts, and 'Bible' is used to generate text slides with scripture verses on them.
+4. Main content area. This shows, in the playlist order, the items in the playlist. This will include image slides, text slides, songs, etc. Here, Sunday morning announcements are shown, which are image slides. 
+5. This menu contains the pre-service timer (shown) and a few other less-commonly-used options. 
+6. Clear buttons. The tall button with the 'x' icon clears everything from the screens, the megaphone clears 'Announcement' objects (with the green concentric circle icons), the 'text box' icon clears text from the screen (song lyrics, scriptures, etc.), the 'image' icon clears media (backgrounds, videos, image slides that are not marked as announcements), the paper-airplane icon clears messages (usually just the pre-service countdown timer). The others are generally not used. 
+
+![ProPresenter Reflow Mode](./pp_reflow_annotated.png)
+
+
+![ProPresenter Bible Mode](./pp_bible_annotated.png)
+
 ## Setup and Teardown
 ### Setup / Before Service
 
