@@ -48,9 +48,19 @@ A rear-facing projector for the people on the stage to see what's on the project
 6. Clear buttons. The tall button with the 'x' icon clears everything from the screens, the megaphone clears 'Announcement' objects (with the green concentric circle icons), the 'text box' icon clears text from the screen (song lyrics, scriptures, etc.), the 'image' icon clears media (backgrounds, videos, image slides that are not marked as announcements), the paper-airplane icon clears messages (usually just the pre-service countdown timer). The others are generally not used. 
 
 ![ProPresenter Reflow Mode](./pp_reflow_annotated.png)
-
+1. Mode selecter buttons.
+2.  Playlist menu: contains playlists and the archive of playlists.
+3. Playlist contents: shows the items in the selected playlist
+4. Reflow editor. The text-based slides can be edited here. To create a new slide, use option + enter. 
+5. Reflow preview.
+6. Preview window. Previews various video outputs. Use the dropdown menu to preview other feeds. Main screen and side screens are the important ones.
+7. Clear buttons. The tall button with the 'x' icon clears everything from the screens, the megaphone clears 'Announcement' objects (with the green concentric circle icons), the 'text box' icon clears text from the screen (song lyrics, scriptures, etc.), the 'image' icon clears media (backgrounds, videos, image slides that are not marked as announcements), the paper-airplane icon clears messages (usually just the pre-service countdown timer). The others are generally not used. 
+8. This menu contains the pre-service timer (shown) and a few other less-commonly-used options. 
 
 ![ProPresenter Bible Mode](./pp_bible_annotated.png)
+1. Input box. Enter the desired reference with full name of the book and chapter:verse1-verse2.
+2. Generated scripture slides.
+3. 'Save as' menu. Select 'Add to playlist' and add add the slides to the desired playlist. 
 
 ## Setup and Teardown
 ### Setup / Before Service
