@@ -31,12 +31,10 @@ Things to take note of in the ProPresenter software: the playlist listing to the
 Four buttons controlling power to 1) the booth and equipment inside, 2) The stage lighting 3) the TVs in the overflow section / multipurpose room / GAP room, and 4) The projectors
 
 ### Three Main Projectors
-The two side projectors show the same images, distinct from the center projector. The power is controlled by the power button discussed above. 
+The two side projectors show the same images, distinct from the center projector. The power is controlled by the power button mentioned above. 
 
 ### Confidence Monitor
-A rear-facing projector for the people on the stage to see what's on the projectors. Power is controlled by the same power button as the other projectors. The short, stubby remote corresponds to this projector; occasional the signal is lost: you can just switch the input and change it back to reset. 
-
-![View of ProPresenter during typical service](./pp_general.png)
+A rear-facing projector for the people on the stage to see what's on the projectors. Power is controlled by the same power button as the other projectors. The short, stubby remote corresponds to this projector; occasionally the signal is lost (commonly when the projectors are power-cycled): you can just switch the input and change it back to re-lock on the video feed. 
 
 ### Overview of ProPresenter Software
 ![ProPresenter Main Screen](./pp_general_annotated.png)
@@ -61,13 +59,23 @@ A rear-facing projector for the people on the stage to see what's on the project
 2. Generated scripture slides.
 3. 'Save as' menu. Select 'Add to playlist' and add add the slides to the desired playlist. 
 
+### Overview of UltraStream
+- To log into UltraStream, open Safari and navigate to the local UltraStream interface (start typing 'ultrastream, the browser should offer a auto-complete option. It is saved as a bookmark as well.) The login information is saved by the browser.
+- To begin streaming, press the square green 'Live' button on the landing page. The red 'Record' button should also generally be used. You may need to navigate to the 'storage' menu on the left sidebar and delete older recordings to make space. Be sure to stop recording and livestreaming a few minutes after the services is over.
+
+### YouTube
+- YouTube is not generally necessary, as the stream is automatically set to start as soon as a data stream is received (UltraStream starts streaming). However, logging onto YouTube is the best practice as it allows you to monitor the stream and any comments. 
+- Open Safari and navigate to YouTube. The login information is saved by the browser (Northstar Office Google account). 
+- Navigate to the YouTube Studio view. (This can be done multiple ways: User menu -> YouTube Studio; channel page -> Videos -> Live tab -> 'View in Studio' option on the particular event). The stream should start automatically when UltraStream begins streaming. If it does not, after UltraStream streaming is turned on, click 'Go Live' in the live event for the appropriate service. The stream should automatically end when streaming is turned off on UltraStream. If not, simply end the stream on the YouTube event as well.
+
 ## Setup and Teardown
 ### Setup / Before Service
 
 - It's best to arrive around the same time as the band in order to prepare the presentation files and check the ordering of the worship lyrics.
 - Turn on the main power: Booth Power, GAP Room TVs, Lights Power. Power on the projection computer and open ProPresenter. Turn on Projector power. Pray that the signal locks, so you won't have to go through the whole dance of relocking the video output signals.
-- Ensure that all the files and songs are in the playlist for the week. You should receive an email with the scripture references and any slides or videos for the week. Download these and add them to the playlist for the service. For the slides, add a new presentation (File -> New Presentation; or Cmd+n), ensuring you add the new presentation to the playlist for the service (dropdown menu in the window for creating a new presentation). Copy (drag and drop) the dowloaded slides into this new presentation and delete the default empty slide at the beginning of the presentation. 
-- Add the scripture references. Click "Bible" on the upper right portion of the ProPresenter widow. Enter the scripture references in the text box to find the verses. The reference should be entered with the full name of the book, then chapter:verse1-verse2. At the bottom of the window, press save to playlist, then select the current playlist. Do this for all the references. 
+- Ensure that all the files and songs are in the playlist for the week. You should receive an email with the scripture references and any slides or videos for the week. Download these and add them to the playlist for the service. For the slides, add a new presentation (File -> New Presentation; or Cmd+n), ensuring you add the new presentation to the playlist for the service (there's a 'Playlist' dropdown menu in the window for creating a new presentation). Drag and drop the dowloaded slides into this new presentation and delete the default empty slide at the beginning of the presentation. 
+- If you need to add a song: click the magnifying glass icon or use Cmd+f to open the search menu. A the top, there are three icons: the first searches songs existing in the local library, and is preferred. Clicking the middle icon opens SongSelect, which searches available songs to automatically create lyric slides.
+- Add the scripture references. Click "Bible" on the upper right portion of the ProPresenter widow. Enter the scripture references in the text box to find the verses. The reference should be entered with the full name of the book, then `chapter`:`verse1`-`verse2`. At the bottom of the window, press save to playlist, then select the current playlist. Do this for all the references. 
 
 ![ProPresenter Bible view](./pp_bible.png)
 
@@ -75,7 +83,7 @@ A rear-facing projector for the people on the stage to see what's on the project
 
 ![ProPresenter in Reflow view](./pp_reflow.png)
 
-- While the band is practicing, check that the lyrics are in the proper order for the song. For each song, press the button that looks like three squares laid out horizontally at the right end of the banner along the song lyrics. Then, select the "Northstar" arrangement from the dropdown menu to the left. If none exists, create one. In general, you should be able to address any issues with the lyrics by dragging-and-dropping the lyric groupings into the current arrangement or removing unnecessary groups. 
+- While the band is practicing, check that the lyrics are in the proper order for the song. For each song, press the button that looks like three squares laid out horizontally at the right end of the banner along the song lyrics. Then, select the "Northstar" arrangement from the dropdown menu to the left. If the "Northstar" arrangement does not exist, create it. In general, you should be able to address any issues with the lyrics by dragging-and-dropping the lyric groupings into the current arrangement or removing unnecessary groups. 
 - If the song doesn't have a background as it's first slide, or if you wish to change the background, open the media bin (ctrl+v or 
 View -> Media Bin). Find whatever background you want, then drag it into the song as its own slide: i.e. drag it between / before existing slides, not onto an exising lyric slide. Right click on the old background, if any, and click delete. 
 
