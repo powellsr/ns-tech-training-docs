@@ -37,7 +37,7 @@ This unit lies just below the video switcher and has three rows of buttons corre
 5. Once the source and destination are correctly selected, press Take to switch the input / output mapping of the selected feeds.
 6. Press Clear at any time through this process to cancel. 
 
-For example, one change that occasionally needs to be made is to switch between the media feed and the drum cam. The input for the video feed is 9 and the input for the drum cam is 16. The desired output is 2. To switch, press Dest, then 4, then source, then 9 / 16, then take. The video feed should switch on the monitor. 
+For example, one change that occasionally needs to be made is to switch between the media feed and the drum cam. The input for the video feed is 9 and the input for the drum cam is 16. The desired output is 2. To switch, press Dest, then 4, then source, then 9 or 16, whichever is the desired feed, then take. The video feed should switch on the monitor. 
 
 ### Remote camera controls (two remote controlled cameras)
 The two remote cameras are controlled using the camera control console located in front of the video production monitor.
@@ -57,7 +57,7 @@ The other settings (focus, white balance, etc.) are generally set to auto and ar
 ## Setup and Teardown
 
 ### Setup / Before Service
-- Ensure the booth power is on __more on this__. 
+- Ensure the booth power is on (on the power module to the right of the projection computer on the left end of the desk, the `Booth Power` button should be light in white). 
 - Turn on camera 3 and set to record (and is positioned correctly for the first song). If memory space will not sustain recording the services for the day, delete older video files until there is enough storage
 - Turn on camera 4
 - Send the welcome slide loop to the livestream feed before the livestream is started
