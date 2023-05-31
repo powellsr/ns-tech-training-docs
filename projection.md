@@ -84,6 +84,7 @@ A rear-facing projector for the people on the stage to see what's on the project
 ![ProPresenter in Reflow view](./pp_reflow.png)
 
 - While the band is practicing, check that the lyrics are in the proper order for the song. For each song, press the button that looks like three squares laid out horizontally at the right end of the banner along the song lyrics. Then, select the "Northstar" arrangement from the dropdown menu to the left. If the "Northstar" arrangement does not exist, create it. In general, you should be able to address any issues with the lyrics by dragging-and-dropping the lyric groupings into the current arrangement or removing unnecessary groups. 
+- If the lyrics are oddly sized or aren't all captialized, apply our preferred default formatting. Select the song group in the playlist menu. Click the 'Text' button at the upper left part of the screen, near the search button. Apply the following formatting choices and click OK: Font: Futura, complete capitalization (the 'AA' button), and a font size of 60 (sometimes this may be modified, this is usually / approximately the best selection). You may also need to remove text effects such as shadowing. 
 - If the song doesn't have a background as it's first slide, or if you wish to change the background, open the media bin (ctrl+v or 
 View -> Media Bin). Find whatever background you want, then drag it into the song as its own slide: i.e. drag it between / before existing slides, not onto an exising lyric slide. Right click on the old background, if any, and click delete. 
 
