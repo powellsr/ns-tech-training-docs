@@ -64,7 +64,7 @@ The other settings (focus, white balance, etc.) are generally set to auto and ar
 
 ### Teardown / After Service
 - Play outro slides from the end of service until the crowd in the church begins to thin out
-- Turn off camera 3 __Generally, I delete video files immediately, but this is probably poor general practice. My anal-retentive nature, I guess__
+- Turn off camera 3. Delete older video files until there is enough space to record the next service. (Menu -> Oldest video -> trash button -> confirm)
 - Turn off camera 4
 - The projection volunteer is generally responsible for turning off booth power
 
