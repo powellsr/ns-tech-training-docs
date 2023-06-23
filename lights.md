@@ -13,14 +13,13 @@ document for AV volunteers controlling the lights at Northstar.
 
 ## Responsibilities
 The lighting volunteer is responsible for the stage, auditorium, and overflow lights, ensuring that the congregation can view the goings-on onstage clearly and without distraction. Typically, the lighting volunteer is also responsible for opening and closing the garage doors leading into the house right side of the auditorium.
-
 ## Physical Controls
 The controls which the lighting volunteer is responsible for and through which they will fulfill their role are the following:
 
 - Garage door opener, hanging on a hook on the rightmost wall of the video and lighting booth
-- In-wall light panels, on the rightmost wall of the main AV booth
+- In-wall light panels, on the rightmost wall of the AV booth
 - Lighting console, stationed in front of the lighting computer
-- Lighting computer, the rightmost workstation in the main AV booth
+- Lighting computer, the rightmost workstation in the AV booth
 
 ![View of the lights station, with all implements visible](./view_of_lighting_station.jpg)
 
@@ -31,7 +30,7 @@ This opener has three buttons which correspond to the three garage doors on the 
 
 Frankly, it's a garage door. It's not that complicated.
 
-### In-wall Panels
+### In-wall Light Panels
 There are three relevant panels here, each on the right wall of the main AV booth, just above the surface of the desk. The button lit in blue for each of these is the active scene. Amber / orange back lighting indicates an inactive scene. ![In-wall lighting panels](./view_of_in-wall_light_panels.jpg) The panel closest to the front of the auditorium has three sets of buttons. The first, closest to the front of the auditorium, controls the auditorium house lights. It has settings for different levels of brightness and an 'off' button. Typically, the lights are on full except during service, when these lights are generally controlled from the console. **_Note: this panel has priority over the console, so the lights cannot be made dimmer than whatever they are set to on this panel from the console. This means the 'off' button should be selected before service to relinquish control to the console._** 
 
 The next set of buttons controls the stage lights. It has a few common presets (or scenes) which are also represented on the console / lighting software. These are rarely used.  
