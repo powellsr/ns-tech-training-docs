@@ -17,9 +17,9 @@
 
 ## Typical Order of Service and Responsibilities
 
-- It's best to arrive around the same time as the band in order to prepare the presentation files and check the ordering of the worship lyrics.
-- Turn on the main power: Booth Power, GAP Room TVs, Lights Power. Power on the projection computer and open ProPresenter. Turn on Projector power. Pray that the signal locks, so you won't have to go through the whole dance of relocking the video output signals.
-- Ensure that all the files and songs are in the playlist for the week. You should receive an email with the scripture references and any slides or videos for the week. Download these and add them to the playlist for the service. For the slides, add a new presentation (File -> New -> presentation; or Cmd+n), ensuring you add the new presentation to the playlist for the service (dropdown menu in the window for creating a new presentation). Copy the dowloaded slides into this new presentation and delete the default empty slide at the beginning of the presentation. 
+- It's best to arrive around the same time as the band in order to prepare the presentation files and check the ordering of the worship lyrics (nominally an hour and a half or two hours before the first service).
+- Turn on the main power: Booth Power, GAP Room TVs, Lights Power, and Projector Power. Power on the presentation computer and open ProPresenter, if not already running.
+- Ensure that all the files and songs are in the playlist for the week. You should receive an email from whoever is preaching with the scripture references and any slides or videos for the week. Download these and add them to the playlist for the service. For the slides, add a new presentation (File -> New -> Presentation; or Cmd+n), ensuring you add the new presentation to the playlist for the service (dropdown menu in the window for creating a new presentation). Copy the downloaded slides into this new presentation and delete the default empty slide at the beginning of the presentation. 
 - Add the scripture references. Click "Bible" on the upper right portion of the ProPresenter widow. Enter the scripture references in the text box to find the verses. The reference should be entered with the full name of the book, then chapter:verse1-verse2. At the bottom of the window, press save to playlist, then select the current playlist. Do this for all the references. 
 - TODO: 3-4 lines per slide, break up
 - TODO: Check lyrics
@@ -30,6 +30,6 @@
 - TODO: Song lyrics
 - TODO: Announcements
 - TODO: Message
-- TODO: End live stream, play outtro slides
+- TODO: End live stream, play outro slides
 
 ## Tips and Tricks
