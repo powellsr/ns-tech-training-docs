@@ -79,13 +79,32 @@ A rear-facing projector for the people on the stage to see what's on the project
 
 ![ProPresenter Bible view](./pp_bible.png)
 
-- After adding the scriptures, ensure that there are no more than 3-4 lines per slide, to avoid interfering with the livestream's video feed. Select the scripture playlist, then go to the "Reflow" view, and press option + enter to break scripture onto a new slide. You can press delete while at the beginning of a slide to combine slides.
+![Saving scripture slides to playlist](./pp_save_scripture_to_playlist.png)
+
+- After adding the scriptures, ensure that there are no more than 3-4 lines per slide, to avoid interfering with the livestream's video feed. Select the scripture playlist, then go to the "Reflow" view, and press ctrl+Enter to break scripture onto a new slide. You can press delete while at the beginning of a slide to combine slides.
 
 ![ProPresenter in Reflow view](./pp_reflow.png)
 
-- While the band is practicing, check that the lyrics are in the proper order for the song. For each song, press the "Arrangement" button that looks like three squares laid out horizontally at the right end of the banner along the song lyrics. Then, select the "Northstar" arrangement from the dropdown menu to the left. If the "Northstar" arrangement does not exist, create it. In general, you should be able to address any issues with the lyrics by dragging-and-dropping the lyric groupings into the current arrangement or removing unnecessary groups. 
-- If the lyrics are oddly sized or aren't capitalized uniformly, apply our preferred default formatting. Select the song group in the playlist menu. Click the 'Text' button at the upper left part of the screen, near the search button. Apply the following formatting choices and click OK: Font: Futura, Weight: Medium, complete capitalization (the 'AA' button), and a font size of 60 (sometimes this may be modified, this is usually / approximately the best selection). You may also need to remove text effects such as shadowing. 
-- If the song doesn't have a background as its first slide, or if you wish to change the background, open the media bin (ctrl+v or View -> Media Bin). Find whatever background you want, then drag it into the song as its own slide: i.e. drag it between / before existing slides, not onto an exising lyric slide. Right click on the old background, if any, and click delete.
+- While the band is practicing, check that the lyrics are in the proper order for the song. For each song, press the button that looks like three squares laid out horizontally at the right end of the banner along the song lyrics. Then, select the "Northstar" arrangement from the dropdown menu to the left. If the "Northstar" arrangement does not exist, create it. In general, you should be able to address any issues with the lyrics by dragging-and-dropping the lyric groupings into the current arrangement or removing unnecessary groups. 
+- If the lyrics are oddly sized or aren't all captialized, apply our preferred default formatting. Select the song group in the playlist menu. Click the 'Text' button at the upper left part of the screen, near the search button. Apply the following formatting choices and click OK: Font: Futura, complete capitalization (the 'AA' button), and a font size of 60 (sometimes this may be modified, this is usually / approximately the best selection). You may also need to remove text effects such as shadowing. 
+- If the song doesn't have a background as it's first slide, or if you wish to change the background, open the media bin (ctrl+v or 
+View -> Media Bin). Find whatever background you want, then drag it into the song as its own slide: i.e. drag it between / before existing slides, not onto an exising lyric slide. Right click on the old background, if any, and click delete. 
+- If you need to add a song that isn't in the playlist, go to the search menu (magnifying glass icon in the upper left corner of the window) or press Ctrl+f. It should default to searching the local library of lyrics (rightmost icon at the top the search pane). Select the desired song and add it to the playlist. _(Note: if you've just started ProPresenter, not all songs may appear in the search immediately. If there's a song you can't find that you think should be present, wait a few minutes for PP to warm up (indexing to finish) and search again.)_
+  
+  - __*Temporary Note:*__ Currently, we do not have a subscription to PP software, and the version we operate does not have access to the SongSelect function, which would allow us to automatically search for songs online and import the lyrics. As it stands now, if the song isn't in the library, find the lyrics through a web search and copy them. Past into TextEdit (Cmd+space, search textedit), and ensure that each verse / chorus is separated by blank lines, or add them if not and copy the modified text again. Import the text as a presentation (File->Import->Text from Clipboard)
+
+![Open the menu for importing text from the clipboard](./pp_import_song_from_clipboard_menuing.png)
+
+![Use these (default) import settings and save to the appropriate playlist. Select `Edit` to rename the imported song (see below).](./pp_import_song_from_clipboard_original_menu.png)
+
+![Rename the song before importing so it can be found in the future.](./pp_import_song_from_clipboard.png)
+
+- TODO: what is the icon for the search library function? Image of search function 
+
+- Ensure that the macros are in place. On the first slide of each song (usually a background), there should be a small icon of a bracketed S (`[S]`) in the upper left corner. Likewise on the first slide of the sermon slides should have a bracketed M (`[M]`) in the upper left corner of the slide. If this icon is missing in any case, left click on the appropriate slide, select `Actions` -> `Macros` -> then either `Message Slides` or `Song`. These macros set the layout of the stage projector to optimize for each use case. 
+
+_*`Note: need images for macros, expand on macros function / show layout info?`*_
+
 
 ### Teardown / After Service
 
@@ -110,4 +129,4 @@ A rear-facing projector for the people on the stage to see what's on the project
 - The livestream event is usually set to go live on YouTube 10 minutes before service time when the stream feed is started from the streaming device (UltraStream). It is best practice, however, to open the church YouTube page to ensure the stream has started correctly, monitor the stream, and be able to see and respond to comments (comments are quite rare). Navigate to the church YouTube channel using Safari, or the dontgo.be/livestream short link.
 
 
-- TODO: Picture of the software with buttons labeled
+- TODO: Picture of the (streaming) software with buttons labeled
