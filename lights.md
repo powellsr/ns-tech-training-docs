@@ -107,3 +107,5 @@ The color spot lights can add a subtle change of color. On the right side of the
 
 ## Tips and Tricks
 - Leave the worship looks on very low instead of fading the slider to 0 while using the preach setting to avoid having to reset at the top of the cue (useful when targeting a look later in the cue after a transition from 'Preach' _and_ while not logged in as admin).
+- The general strategy for the garage doors is to close them during the greeting time while people are talking and open them at the end of the service during a crescendo of the last song (the least distractive moments possible).
+- The normal approach to the garage doors can be disrupted if there is no greeting time, there happens to be a baptism, or the last song isn't very big. In these cases the doors will usually close during the second song and reopen after the service ends, but please check the provided order of service for specific door cues.
