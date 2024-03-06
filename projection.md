@@ -75,6 +75,7 @@ A rear-facing projector for the people on the stage to see what's on the project
 - Turn on the main power: Booth Power, GAP Room TVs, Lights Power, and Projector Power. Power on the presentation computer and open ProPresenter, if not already running.
 - Ensure that all the files and songs are in the playlist for the week. You should receive an email from whoever is preaching with the scripture references and any slides or videos for the week. Download these and add them to the playlist for the service. For the slides, add a new presentation (File -> New -> Presentation; or Cmd+n), ensuring you add the new presentation to the playlist for the service (dropdown menu in the window for creating a new presentation). Copy the downloaded slides into this new presentation and delete the default empty slide at the beginning of the presentation.
 - If you need to add a song: click the magnifying glass icon or use Cmd+f to open the search menu. A the top, there are three icons: the first searches songs existing in the local library, and is preferred. Clicking the middle icon opens SongSelect, which searches available songs to automatically create lyric slides.
+- After adding both the sermon slides and the song lyrics, make sure the appropriate macro action is added to the first slide of each (on the title slide for sermon slides and the motion background for songs). To do this, right click the first slide, choose the macro menu, and then select either "sermon" or "slides" as appropriate.
 - Add the scripture references. Click "Bible" on the upper right portion of the ProPresenter widow. Enter the scripture references in the text box to find the verses. The reference should be entered with the full name of the book, then `chapter`:`verse1`-`verse2`. At the bottom of the window, press save to playlist, then select the current playlist. Do this for all the references. 
 
 ![ProPresenter Bible view](./pp_bible.png)
@@ -127,6 +128,5 @@ _*`Note: need images for macros, expand on macros function / show layout info?`*
 ## Tips and Tricks
 - When attempting to start the recording for the livestream, you may receive a message indicating that the UltraStream storage device is full. In this case, navigate to the 'Storage' menu from the left sidebar. Click 'More', then select a few of the oldest video recordings and delete them with the trash can button. You should be able to record again at this point. 
 - The livestream event is usually set to go live on YouTube 10 minutes before service time when the stream feed is started from the streaming device (UltraStream). It is best practice, however, to open the church YouTube page to ensure the stream has started correctly, monitor the stream, and be able to see and respond to comments (comments are quite rare). Navigate to the church YouTube channel using Safari, or the dontgo.be/livestream short link.
-
 
 - TODO: Picture of the (streaming) software with buttons labeled
