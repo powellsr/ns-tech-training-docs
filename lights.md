@@ -93,14 +93,14 @@ The color spot lights can add a subtle change of color. On the right side of the
 ## Typical Order of Service and Responsibilities
 - Immediately before service: auditorium lights should be at 90-100%. Stage lights should be low, set to preservice or lighting colors for the first song.
 - As the intro video finishes and the worship leader begins to speak, bring up the stage lights (worship looks).
-- First song: dim auditorium (and overflow) lights to ~40%. Turn worship lights on to 90% and to the appropriate color. 'Preach', 'Pre-Service', and all other lights (other than auditorium / overflow lights) should be off. 
+- First song: dim auditorium (and overflow) lights to ~55%. Turn worship lights on to 90% and to the appropriate color. 'Preach', 'Pre-Service', and all other lights (other than auditorium / overflow lights) should be off. 
 - As first song ends / announcements begin: Fade 'Preach' setting on to 90% and 'Worship' setting off or very low. Bring auditorium / overflow lights to ~70%. 
-- Greeting time: leave auditorium / overflow lights up (at least 70%). Close the garage doors as soon as the coast is clear and you won't be interrupted by pedestrians. You may change to the worship lights and turn 'Preach' lights off whenever. If you're really good, as the band is getting ready to / calling people back to worship, fade down the auditorium lights to worship setting (40%) to help get people to stop talking and find their seats already. 
-- Second song: ensure lights are on worship ('Preach' off), and at the right color and power (90% stage (worship) / 40% auditorium).
-- Third song: change to the correct color. Maintain 90/40 brightness.
+- Greeting time: leave auditorium / overflow lights up (at least 70%). Close the garage doors as soon as the coast is clear and you won't be interrupted by pedestrians. You may change to the worship lights and turn 'Preach' lights off whenever. If you're really good, as the band is getting ready to / calling people back to worship, fade down the auditorium lights to worship setting (55%) to help get people to stop talking and find their seats already. 
+- Second song: ensure lights are on worship ('Preach' off), and at the right color and power (90% stage (worship) / 50% auditorium).
+- Third song: change to the correct color. Maintain 90/55 brightness.
 - As the pastor comes up: Fade to 'Preach' lights at 90%. Fade worship off or very low. Fade auditorium lights up to ~65-70% (generally at the end of opening prayer).
 - Message: maintain 90/70 brightness.
-- Ending song: Fade 'Worship' setting to 90% and 'Preach' off. Fade auditorium lights to 40% (generally during closing sermon prayer).
+- Ending song: Fade 'Worship' setting to 90% and 'Preach' off. Fade auditorium lights to 50% (generally during closing sermon prayer).
 - End of service closing prayer: fade auditorium lights to 90-100%. You may leave the last worship setting on while the band tears down. 
 
 
