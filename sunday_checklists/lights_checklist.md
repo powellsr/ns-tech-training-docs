@@ -1,7 +1,7 @@
 # Lights Sunday Morning Checklist
 
-[Back to Overview](README.md)
-[Back to Lights Training](lights.md)
+[Back to Overview](../README.md)
+[Back to Lights Training](../lights.md)
 
 ## Before (First) Service
 

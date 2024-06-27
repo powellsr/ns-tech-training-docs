@@ -1,7 +1,7 @@
 # Audio/Sound Booth Sunday Morning Checklist
 
-[Back to Overview](README.md)
-[Back to Audio Training](audio.md)
+[Back to Overview](../README.md)
+[Back to Audio Training](../audio.md)
 
 -   [ ] Arrive around the same time as the band (typically two hours before the first service).
 -   [ ] Make sure that all Main/Matrix outputs are unmuted!

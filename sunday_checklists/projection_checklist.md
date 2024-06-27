@@ -1,7 +1,7 @@
 # Projection/Slides Sunday Morning Checklist
 
-[Back to Overview](README.md)
-[Back to Projection Training](projection.md)
+[Back to Overview](../README.md)
+[Back to Projection Training](../projection.md)
 
 ## Before (First) Service
 

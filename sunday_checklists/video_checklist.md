@@ -1,7 +1,7 @@
 # Video/Cameras Sunday Morning Checklist
 
-[Back to Overview](README.md)
-[Back to Video Training](video.md)
+[Back to Overview](../README.md)
+[Back to Video Training](../video.md)
 
 ## Before (First) Service
 
