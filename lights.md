@@ -112,14 +112,14 @@ The color spot lights can add a subtle change of color. On the right side of the
 -   Second song: ensure lights are on worship ('Preach' off), and at the right color and power (90% stage (worship) / 40% auditorium).
 -   Third song: change to the correct color. Maintain 90/40 brightness.
 -   As the pastor comes up: Fade to 'Preach' lights at 90%. Fade worship off or very low. Fade auditorium lights up to ~65-70% (generally after opening prayer).
--   Message: maintain 90/40 brightness.
+-   Message: maintain 90/70 brightness.
 -   Ending song: Fade 'Worship' setting to 90% and 'Preach' off. Fade auditorium lights to 40%.
 -   End of closing prayer: fade auditorium lights to 90-100%. You may leave the last worship setting on while the band tears down.
 
 > If there is a video, generally leave the auditorium lights wherever they're set, but fade whatever is on stage lower to avoid washing out the screen. You may need to fade these lower if the auditorium lights are brighter.
 
 ## Tips and Tricks
-
+-   If there is a video, generally leave the auditorium lights wherever they're set, but fade whatever is on stage lower to avoid washing out the screen. You may need to fade these lower if the auditorium lights are brighter. Also, if there is a "focused" video element ("turn your attention to the screens") it may make sense to bring down the auditorium lights as well.
 -   Leave the worship looks on very low instead of fading the slider to 0 while using the preach setting to avoid having to reset at the top of the cue (useful when targeting a look later in the cue after a transition from 'Preach' _and_ while not logged in as admin).
 -   The general strategy for the garage doors is to close them during the greeting time while people are talking and open them at the end of the service during a crescendo of the last song (the least distractive moments possible).
 -   The normal approach to the garage doors can be disrupted if there is no greeting time, there happens to be a baptism, or the last song isn't very big. For a baptism, close the two doors nearest the stage (doors 1 and 2) as usual during the greeting time when not obstructed. Door 3 will typically be closed during the second song after congregants who where watching the baptism return, again targeting a crescendo to minimize distraction. When there is no greeting time, close the doors at a suitable time during the second song. If the final song is very quiet, consider opening the garage doors after the end of service. These are the typical adjustments to garage door timing, but please check the provided order of service for specific door cues.
